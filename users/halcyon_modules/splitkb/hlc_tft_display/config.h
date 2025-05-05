@@ -38,3 +38,7 @@
 
 // Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
 #define QUICK_TAP_TERM 0
+
+#define MOUSEKEY_WHEEL_INTERVAL 60
+#define MOUSEKEY_WHEEL_DELTA 2
+#define MOUSEKEY_INTERVAL 16
